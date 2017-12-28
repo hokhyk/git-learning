@@ -20,9 +20,8 @@ git pull origin master --allow-unrelated-histories
 
 
 
-Git忽略规则.gitignore梳理
+# Git忽略规则.gitignore梳理  http://www.cnblogs.com/kevingrace/p/5690241.html
  
-
 对于经常使用Git的朋友来说，.gitignore配置一定不会陌生。废话不说多了，接下来就来说说这个.gitignore的使用。
 
 首先要强调一点，这个文件的完整文件名就是".gitignore"，注意最前面有个“.”。
