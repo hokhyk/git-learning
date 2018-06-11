@@ -1,5 +1,7 @@
 https://github.com/hokhyk/git-learning.git
 
+# 发现git下目录中存在git status无法发现的文件时，使用 git rm -rf --cached (directory or filename)可以解决此问题。
+
 # git clean  -d  -fx ""
 http://www.kernel.org/pub/software/scm/git/docs/git-clean.html
 
